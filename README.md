@@ -21,6 +21,14 @@ Practice for CTFs will be posted here.
 | # Exercises Completed    |   0   |
 ```
 
+# How to add to the changelog
+1. Use `|` to seperate fields, start the row and end the row. Spacing does not matter as it will be automatically formatted.
+2. Date should be in the form YYY-MM-DD
+3. Author - Your name. First and last or simply your prefered name.
+
+# Request an exercise
+- Create an issue and describe what you are wanting to try.
+
 # Structure
 ## [Dir] Exercises
 - Problems which have an objective to meet.
@@ -50,3 +58,4 @@ Practice for CTFs will be posted here.
 | Date       | Changes                     | Author        |
 |------------|-----------------------------|---------------|
 | 2025-10-03 | Initial README update.             | Kyle Parker     |
+| 2025-10-03 | Add Issues context and clarity on changelog format | Kyle Parker | 
